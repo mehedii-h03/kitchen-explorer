@@ -1,0 +1,310 @@
+[
+    {
+        "chef_name": "Chen Kenichi",
+        "id": 1,
+        "chef_picture": "https://i.ibb.co/VSrCTDw/female-chef-white-uniform-standing-with-crossed-arms-looking-cheery.jpg",
+        "years_of_experience": 5,
+        "number_of_recipes": 50,
+        "likes": 1000,
+        "rating": 4.2,
+        "title": "Executive Chef",
+        "desc": "This chef has 5 years of experience in Chinese cuisine and is highly skilled in creating a variety of recipes. With a passion for blending traditional flavors and modern techniques, this chef creates dishes that are both authentic and innovative. From savory stir-fries to steaming hot soups, this chef's repertoire of Chinese recipes is vast and impressive. Their dedication to using fresh, high-quality ingredients ensures that each dish they create is bursting with flavor. Whether you're in the mood for something sweet, spicy, or savory, this chef has the perfect recipe to satisfy your cravings.",
+        "recipes": [
+            {
+                "id": 1,
+                "recipe_name": "General Tso's Chicken",
+                "ingredients": [
+                    "1 lb boneless, skinless chicken thighs",
+                    "1/2 cup cornstarch",
+                    "2 tbsp vegetable oil",
+                    "2 tbsp soy sauce",
+                    "2 tbsp hoisin sauce"
+                ],
+                "cookingMethod": "1. Cut chicken into bite-sized pieces and coat with cornstarch. \n2. Heat oil in a large skillet over medium-high heat. Add chicken and cook until crispy and browned. \n3. In a small bowl, whisk together soy sauce and hoisin sauce. Add sauce to the skillet and stir to coat chicken. \n4. Serve with rice and vegetables.",
+                "rating": 4.5
+            },
+            {
+                "id": 2,
+                "recipe_name": "Egg Fried Rice",
+                "ingredients": [
+                    "3 cups cooked rice",
+                    "3 eggs, beaten",
+                    "1 cup frozen peas and carrots",
+                    "3 green onions, chopped",
+                    "3 tbsp soy sauce"
+                ],
+                "cookingMethod": "1. Heat a large skillet or wok over medium-high heat. Add eggs and scramble until fully cooked. Remove from skillet and set aside. \n2. Add peas and carrots to the skillet and stir-fry for 2-3 minutes. \n3. Add rice and stir-fry for 2-3 minutes. \n4. Add soy sauce and green onions, and stir to combine. \n5. Return scrambled eggs to the skillet and stir to combine. \n6. Serve hot.",
+                "rating": 4.2
+            },
+            {
+                "id": 3,
+                "recipe_name": "Beef and Broccoli Stir-Fry",
+                "ingredients": [
+                    "1 lb flank steak, sliced thin",
+                    "1 head broccoli, cut into florets",
+                    "1 red bell pepper, sliced",
+                    "3 cloves garlic, minced",
+                    "1/4 cup soy sauce"
+                ],
+                "cookingMethod": "1. In a small bowl, whisk together soy sauce and garlic. Set aside. \n2. Heat a large skillet or wok over high heat. Add sliced steak and stir-fry until browned and cooked through. Remove from skillet and set aside. \n3. Add broccoli and bell pepper to the skillet and stir-fry for 2-3 minutes. \n4. Return steak to the skillet and add soy sauce mixture. Stir-fry for another 1-2 minutes. \n5. Serve hot with rice.",
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "chef_name": "Yu Bo",
+        "id": 2,
+        "chef_picture": "https://i.ibb.co/YpPC3Lh/young-confident-caucasian-cook-girl-chef-uniform-crosses-armsand-looks-camera-isolated-violet-wall-w.jpg",
+        "years_of_experience": 10,
+        "number_of_recipes": 100,
+        "likes": 2000,
+        "rating": 4.5,
+        "title": "Executive Chef",
+        "desc": "This chef has 10 years of experience in Chinese cuisine and is highly skilled in creating a variety of recipes. With a passion for blending traditional flavors and modern techniques, this chef creates dishes that are both authentic and innovative. From savory stir-fries to steaming hot soups, this chef's repertoire of Chinese recipes is vast and impressive. Their dedication to using fresh, high-quality ingredients ensures that each dish they create is bursting with flavor. Whether you're in the mood for something sweet, spicy, or savory, this chef has the perfect recipe to satisfy your cravings.",
+        "recipes": [
+            {
+                "id": 1,
+                "recipeName": "Kung Pao Chicken",
+                "ingredients": [
+                    "1 lb boneless, skinless chicken breasts",
+                    "1 tbsp cornstarch",
+                    "2 tbsp soy sauce",
+                    "2 tbsp vegetable oil",
+                    "1/2 cup peanuts"
+                ],
+                "cookingMethod": "Cut chicken into bite-sized pieces and toss with cornstarch and soy sauce.\n2. Heat oil in a wok or large skillet over high heat.\n3. Add chicken and stir-fry for 5-6 minutes, until browned and cooked through.\n4. Add peanuts, bell peppers, green onions, and garlic and stir-fry for an additional 2-3 minutes.\n5. Serve hot over rice.",
+                "rating": 4.5
+            },
+            {
+                "recipeName": "Hot and Sour Soup",
+                "ingredients": [
+                    "4 cups chicken broth",
+                    "1/4 cup rice vinegar",
+                    "1/4 cup soy sauce",
+                    "2 tbsp cornstarch",
+                    "2 eggs, beaten"
+                ],
+                "cookingMethod": "1. In a large pot, bring chicken broth, rice vinegar, and soy sauce to a boil.\n2. In a small bowl, whisk together cornstarch and 1/4 cup water until smooth.\n3. Add cornstarch mixture to the pot and stir well.\n4. Add tofu, bamboo shoots, and water chestnuts and bring to a simmer.\n5. Slowly pour in beaten eggs while stirring the soup in a circular motion.\n6. Serve hot, garnished with chopped green onions.",
+                "rating": 4.2
+            },
+            {
+                "recipeName": "Moo Shu Pork",
+                "ingredients": [
+                    "1 lb boneless pork loin, thinly sliced",
+                    "1/4 cup soy sauce",
+                    "2 tbsp hoisin sauce",
+                    "2 tbsp vegetable oil",
+                    "1/2 head cabbage, thinly sliced"
+                ],
+                "cookingMethod": "1. In a bowl, combine pork, soy sauce, and hoisin sauce.\n2. Heat oil in a wok or large skillet over high heat.\n3. Add pork and stir-fry for 4-5 minutes, until browned and cooked through.\n4. Add cabbage, carrots, mushrooms, and garlic and stir-fry for an additional 2-3 minutes.\n5. Serve hot with flour tortillas.",
+                "rating": 4.9
+            }
+        ]
+    },
+    {
+        "chef_name": "Li Dong",
+        "id": 3,
+        "chef_picture": "https://i.ibb.co/gvKYSZ6/young-african-american-female-posing-yellow.jpg",
+        "years_of_experience": 3,
+        "number_of_recipes": 25,
+        "likes": 500,
+        "rating": 3.9,
+        "title": "Chef de Cuisine",
+        "desc": "This chef has 3 years of experience in Chinese cuisine and is highly skilled in creating a variety of recipes. With a passion for blending traditional flavors and modern techniques, this chef creates dishes that are both authentic and innovative. From savory stir-fries to steaming hot soups, this chef's repertoire of Chinese recipes is vast and impressive. Their dedication to using fresh, high-quality ingredients ensures that each dish they create is bursting with flavor. Whether you're in the mood for something sweet, spicy, or savory, this chef has the perfect recipe to satisfy your cravings.",
+        "recipes": [
+            {
+                "id": 1,
+                "name": "Szechuan Beef",
+                "ingredients": [
+                    "1 lb beef sirloin, thinly sliced",
+                    "2 tbsp vegetable oil",
+                    "2 garlic cloves, minced",
+                    "1 tbsp ginger, minced",
+                    "1 red bell pepper, sliced"
+                ],
+                "cookingMethod": "In a wok or large skillet, heat the oil over high heat. Add the beef and stir-fry for 2-3 minutes until browned. Add the garlic, ginger, and red bell pepper and stir-fry for another minute. In a small bowl, mix together the soy sauce, rice vinegar, brown sugar, and cornstarch. Add the sauce to the wok and stir-fry until the sauce has thickened and the beef is coated. Serve hot with rice.",
+                "rating": 4.5
+            },
+            {
+                "id": 2,
+                "name": "Mongolian Chicken",
+                "ingredients": [
+                    "1 lb chicken breast, sliced",
+                    "1 tbsp vegetable oil",
+                    "1 onion, sliced",
+                    "2 green onions, sliced",
+                    "1 tsp garlic, minced"
+                ],
+                "cookingMethod": "Heat the oil in a wok or large skillet over high heat. Add the chicken and stir-fry for 2-3 minutes until browned. Add the onion, green onions, and garlic and stir-fry for another minute. In a small bowl, mix together the soy sauce, hoisin sauce, brown sugar, and cornstarch. Add the sauce to the wok and stir-fry until the sauce has thickened and the chicken is coated. Serve hot with rice.",
+                "rating": 4.2
+            },
+            {
+                "id": 3,
+                "name": "Kung Pao Shrimp",
+                "ingredients": [
+                    "1 lb shrimp, peeled and deveined",
+                    "2 tbsp vegetable oil",
+                    "1 red bell pepper, sliced",
+                    "1 green bell pepper, sliced",
+                    "1/2 cup peanuts"
+                ],
+                "cookingMethod": "In a wok or large skillet, heat the oil over high heat. Add the shrimp and stir-fry for 2-3 minutes until pink and cooked through. Add the red and green bell peppers and stir-fry for another minute. In a small bowl, mix together the soy sauce, rice vinegar, hoisin sauce, and cornstarch. Add the sauce to the wok and stir-fry until the sauce has thickened and the shrimp and vegetables are coated. Serve hot with rice and sprinkle with peanuts.",
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "chef_name": "Deng Huadong",
+        "id": 4,
+        "chef_picture": "https://i.ibb.co/D5qbFvY/young-smiling-afro-american-cook-chef-uniform-crosses-arms-isolated-orange-wall.jpg",
+        "years_of_experience": 8,
+        "number_of_recipes": 75,
+        "likes": 1500,
+        "rating": 4.6,
+        "title": "Garde Manger Chef",
+        "desc": "This chef has 8 years of experience in Chinese cuisine and is highly skilled in creating a variety of recipes. With a passion for blending traditional flavors and modern techniques, this chef creates dishes that are both authentic and innovative. From savory stir-fries to steaming hot soups, this chef's repertoire of Chinese recipes is vast and impressive. Their dedication to using fresh, high-quality ingredients ensures that each dish they create is bursting with flavor. Whether you're in the mood for something sweet, spicy, or savory, this chef has the perfect recipe to satisfy your cravings.",
+        "recipes": [
+            {
+                "id": 1,
+                "name": "Szechuan Beef",
+                "ingredients": [
+                    "1 lb beef sirloin, thinly sliced",
+                    "2 tbsp vegetable oil",
+                    "2 garlic cloves, minced",
+                    "1 tbsp ginger, minced",
+                    "1 red bell pepper, sliced"
+                ],
+                "cookingMethod": "In a wok or large skillet, heat the oil over high heat. Add the beef and stir-fry for 2-3 minutes until browned. Add the garlic, ginger, and red bell pepper and stir-fry for another minute. In a small bowl, mix together the soy sauce, rice vinegar, brown sugar, and cornstarch. Add the sauce to the wok and stir-fry until the sauce has thickened and the beef is coated. Serve hot with rice.",
+                "rating": 4.5
+            },
+            {
+                "id": 2,
+                "name": "Mongolian Chicken",
+                "ingredients": [
+                    "1 lb chicken breast, sliced",
+                    "1 tbsp vegetable oil",
+                    "1 onion, sliced",
+                    "2 green onions, sliced",
+                    "1 tsp garlic, minced"
+                ],
+                "cookingMethod": "Heat the oil in a wok or large skillet over high heat. Add the chicken and stir-fry for 2-3 minutes until browned. Add the onion, green onions, and garlic and stir-fry for another minute. In a small bowl, mix together the soy sauce, hoisin sauce, brown sugar, and cornstarch. Add the sauce to the wok and stir-fry until the sauce has thickened and the chicken is coated. Serve hot with rice.",
+                "rating": 4.2
+            },
+            {
+                "id": 3,
+                "name": "Kung Pao Shrimp",
+                "ingredients": [
+                    "1 lb shrimp, peeled and deveined",
+                    "2 tbsp vegetable oil",
+                    "1 red bell pepper, sliced",
+                    "1 green bell pepper, sliced",
+                    "1/2 cup peanuts"
+                ],
+                "cookingMethod": "In a wok or large skillet, heat the oil over high heat. Add the shrimp and stir-fry for 2-3 minutes until pink and cooked through. Add the red and green bell peppers and stir-fry for another minute. In a small bowl, mix together the soy sauce, rice vinegar, hoisin sauce, and cornstarch. Add the sauce to the wok and stir-fry until the sauce has thickened and the shrimp and vegetables are coated. Serve hot with rice and sprinkle with peanuts.",
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "chef_name": "Zhou Jian",
+        "id": 5,
+        "chef_picture": "https://i.ibb.co/pXmLjYT/confident-young-handsome-cook-chef-uniform-standing-with-closed-posture-isolated-orange-wall.jpg",
+        "years_of_experience": 6,
+        "number_of_recipes": 60,
+        "likes": 1200,
+        "rating": 4.8,
+        "title": "Executive Chef",
+        "desc": "This chef has 6 years of experience in Chinese cuisine and is highly skilled in creating a variety of recipes. With a passion for blending traditional flavors and modern techniques, this chef creates dishes that are both authentic and innovative. From savory stir-fries to steaming hot soups, this chef's repertoire of Chinese recipes is vast and impressive. Their dedication to using fresh, high-quality ingredients ensures that each dish they create is bursting with flavor. Whether you're in the mood for something sweet, spicy, or savory, this chef has the perfect recipe to satisfy your cravings.",
+        "recipes": [
+            {
+                "id": 1,
+                "recipeName": "Kung Pao Chicken",
+                "ingredients": [
+                    "1 lb boneless, skinless chicken breasts",
+                    "1 tbsp cornstarch",
+                    "2 tbsp soy sauce",
+                    "2 tbsp vegetable oil",
+                    "1/2 cup peanuts"
+                ],
+                "cookingMethod": "Cut chicken into bite-sized pieces and toss with cornstarch and soy sauce.\n2. Heat oil in a wok or large skillet over high heat.\n3. Add chicken and stir-fry for 5-6 minutes, until browned and cooked through.\n4. Add peanuts, bell peppers, green onions, and garlic and stir-fry for an additional 2-3 minutes.\n5. Serve hot over rice.",
+                "rating": 4.5
+            },
+            {
+                "recipeName": "Hot and Sour Soup",
+                "ingredients": [
+                    "4 cups chicken broth",
+                    "1/4 cup rice vinegar",
+                    "1/4 cup soy sauce",
+                    "2 tbsp cornstarch",
+                    "2 eggs, beaten"
+                ],
+                "cookingMethod": "1. In a large pot, bring chicken broth, rice vinegar, and soy sauce to a boil.\n2. In a small bowl, whisk together cornstarch and 1/4 cup water until smooth.\n3. Add cornstarch mixture to the pot and stir well.\n4. Add tofu, bamboo shoots, and water chestnuts and bring to a simmer.\n5. Slowly pour in beaten eggs while stirring the soup in a circular motion.\n6. Serve hot, garnished with chopped green onions.",
+                "rating": 4.2
+            },
+            {
+                "recipeName": "Moo Shu Pork",
+                "ingredients": [
+                    "1 lb boneless pork loin, thinly sliced",
+                    "1/4 cup soy sauce",
+                    "2 tbsp hoisin sauce",
+                    "2 tbsp vegetable oil",
+                    "1/2 head cabbage, thinly sliced"
+                ],
+                "cookingMethod": "1. In a bowl, combine pork, soy sauce, and hoisin sauce.\n2. Heat oil in a wok or large skillet over high heat.\n3. Add pork and stir-fry for 4-5 minutes, until browned and cooked through.\n4. Add cabbage, carrots, mushrooms, and garlic and stir-fry for an additional 2-3 minutes.\n5. Serve hot with flour tortillas.",
+                "rating": 4.9
+            }
+        ]
+    },
+    {
+        "chef_name": "Chen Yi ",
+        "id": 6,
+        "chef_picture": "https://i.ibb.co/1L49NhT/portrait-smiling-chef-uniform.jpg",
+        "years_of_experience": 2,
+        "number_of_recipes": 20,
+        "likes": 250,
+        "rating": 4.7,
+        "title": "Chef de Cuisine",
+        "desc": "This chef has 2 years of experience in Chinese cuisine and is highly skilled in creating a variety of recipes. With a passion for blending traditional flavors and modern techniques, this chef creates dishes that are both authentic and innovative. From savory stir-fries to steaming hot soups, this chef's repertoire of Chinese recipes is vast and impressive. Their dedication to using fresh, high-quality ingredients ensures that each dish they create is bursting with flavor. Whether you're in the mood for something sweet, spicy, or savory, this chef has the perfect recipe to satisfy your cravings.",
+        "recipes": [
+            {
+                "id": 1,
+                "recipe_name": "General Tso's Chicken",
+                "ingredients": [
+                    "1 lb boneless, skinless chicken thighs",
+                    "1/2 cup cornstarch",
+                    "2 tbsp vegetable oil",
+                    "2 tbsp soy sauce",
+                    "2 tbsp hoisin sauce"
+                ],
+                "cookingMethod": "1. Cut chicken into bite-sized pieces and coat with cornstarch. \n2. Heat oil in a large skillet over medium-high heat. Add chicken and cook until crispy and browned. \n3. In a small bowl, whisk together soy sauce and hoisin sauce. Add sauce to the skillet and stir to coat chicken. \n4. Serve with rice and vegetables.",
+                "rating": 4.5
+            },
+            {
+                "id": 2,
+                "recipe_name": "Egg Fried Rice",
+                "ingredients": [
+                    "3 cups cooked rice",
+                    "3 eggs, beaten",
+                    "1 cup frozen peas and carrots",
+                    "3 green onions, chopped",
+                    "3 tbsp soy sauce"
+                ],
+                "cookingMethod": "1. Heat a large skillet or wok over medium-high heat. Add eggs and scramble until fully cooked. Remove from skillet and set aside. \n2. Add peas and carrots to the skillet and stir-fry for 2-3 minutes. \n3. Add rice and stir-fry for 2-3 minutes. \n4. Add soy sauce and green onions, and stir to combine. \n5. Return scrambled eggs to the skillet and stir to combine. \n6. Serve hot.",
+                "rating": 4.2
+            },
+            {
+                "id": 3,
+                "recipe_name": "Beef and Broccoli Stir-Fry",
+                "ingredients": [
+                    "1 lb flank steak, sliced thin",
+                    "1 head broccoli, cut into florets",
+                    "1 red bell pepper, sliced",
+                    "3 cloves garlic, minced",
+                    "1/4 cup soy sauce"
+                ],
+                "cookingMethod": "1. In a small bowl, whisk together soy sauce and garlic. Set aside. \n2. Heat a large skillet or wok over high heat. Add sliced steak and stir-fry until browned and cooked through. Remove from skillet and set aside. \n3. Add broccoli and bell pepper to the skillet and stir-fry for 2-3 minutes. \n4. Return steak to the skillet and add soy sauce mixture. Stir-fry for another 1-2 minutes. \n5. Serve hot with rice.",
+                "rating": 4.8
+            }
+        ]
+    }
+]

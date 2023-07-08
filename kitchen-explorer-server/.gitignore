@@ -1,0 +1,12 @@
+# Ignore node_modules directory
+node_modules
+
+# Ignore log files
+logs
+
+# Ignore env files
+.env
+
+# Ignore build directory
+build
+.vercel
